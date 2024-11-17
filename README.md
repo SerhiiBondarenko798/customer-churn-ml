@@ -47,28 +47,6 @@ Visualizes the impact of different factors on churn risk.
 
 ---
 
-Repository Structure
-
-churn_prediction_project/
-│
-├── data/  
-│   ├── raw/                  # Raw datasets  
-│   ├── processed/            # Preprocessed 
-│
-├── models/                   # Saved machine learning models  
-│   ├── random_forest.pkl  
-│   ├── xgboost.pkl  
-│   ├── gradient_boosting.pkl  
-│
-├── notebooks/  
-│   ├── sentiment_analysis.ipynb   # Sentiment analysis  
-│   ├── churn_prediction.ipynb     # Churn   
-├── README.md                # Project documentation  
-└── requirements.txt         # Dependency list
-
-
----
-
 Technologies Used
 
 1. Python: Pandas, NumPy, Scikit-learn, XGBoost, Imbalanced-learn, Matplotlib, Seaborn, NLTK.
