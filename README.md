@@ -104,8 +104,8 @@ The Power BI dashboard provides an interactive way to analyze the results, offer
 Contact Information
 
 Author: Serhii Bondarenko
-Email: 
-LinkedIn: 
+Email: bondarenkoserhii798@gmail.com
+LinkedIn: https://www.linkedin.com/in/serhii-bondarenko-554867329/
 GitHub: 
 
 
