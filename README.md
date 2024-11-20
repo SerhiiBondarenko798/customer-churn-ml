@@ -106,7 +106,7 @@ Contact Information
 Author: Serhii Bondarenko
 Email: bondarenkoserhii798@gmail.com
 LinkedIn: https://www.linkedin.com/in/serhii-bondarenko-554867329/
-GitHub: 
+GitHub: https://github.com/SerhiiBondarenko798
 
 
 ---
